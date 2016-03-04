@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: com-sunk-springCloud-configserver
+  cloud:
+    config:
+      uri: http://172.28.186.251:8888
